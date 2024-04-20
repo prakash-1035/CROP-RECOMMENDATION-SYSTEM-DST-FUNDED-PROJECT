@@ -1,1 +1,1 @@
-# CROP-RECOMMENDATION-SYSTEM-DST-FUNDED-PROJECT
+This is Project on Crop Recommendataion system, a DST funded project helps Rajasthan farmers to predict best crops for any location in Rajasthan. It's an application of machine learning and utiliging satelite imagery for preparation of database for the state Rajasthan.
